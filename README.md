@@ -1,7 +1,3 @@
 # tttcczBlank
 
-## 京东监控类脚本不再更新
-
-## 低调一点不行么？
-
-## 本来还想发优化的脚本，非得传播？
+https://t.me/tttcczNoticeChannel
